@@ -8,6 +8,6 @@ export default defineUserConfig({
     head: [['link', { rel: 'icon', href: '/image/WechatIMG4.jpeg' }]],
     theme: defaultTheme({
         logo: '/image/WechatIMG4.jpeg',
-        repo: 'https://gitee.com/wqhwqh123/music-doc.git',
+        repo: 'https://github.com/wqh66886/music-doc',
     })
 })

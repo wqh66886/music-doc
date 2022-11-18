@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as o}from"./app.cd1d5087.js";const r={},s=e("h1",{id:"前端文档库",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#前端文档库","aria-hidden":"true"},"#"),o(" 前端文档库")],-1),n=[s];function _(d,i){return t(),c("div",null,n)}const l=a(r,[["render",_],["__file","page.html.vue"]]);export{l as default};
