@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b660aa6","path":"/frontend/page.html","title":"页面的标题","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题","description":"页面的描述"},"excerpt":"","headers":[],"git":{"updatedTime":1668792540000,"contributors":[{"name":"wangqihao","email":"945857051@qq.com","commits":1}]},"filePathRelative":"frontend/page.md"}');export{t as data};
